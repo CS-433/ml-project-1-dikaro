@@ -5,8 +5,12 @@ ml-project-1-dikaro created by GitHub Classroom
 
 Directory descrpiton
 - `script/` directory contains :
-	- implementations.py
-	- 
+	- implementations.py : file with the machine learning methods
+	- run.py : produces the `sample-submission.csv` file with the best model
+	- helpers_data.py : file for data processing
+	- proj1_helpers.py : helpers functions provided for this project
+	- project1.ipynb : jupyter file, for compute each models, found best parameters and compute graphics
+	
 - `data/` directory contains the data file `test.csv`, `train.csv` and `sample-submission.csv` files.
 
 
