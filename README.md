@@ -5,7 +5,7 @@ Creator: Kaan Okumuş, Diana Zanoaga, Roxane Burri
 
 ### Repository description
 
-- `script/` directory contains :
+- `src/` directory contains :
 	- implementations.py : It is used as a library to provide functions about machine learning implementations. It also includes functions about getting statistics of the model such as accuracy and losses. It is called both by run.py and project1.pynb.
 	- run.py : Main code that implements all necessary parts for machine learning project with the optimized solution.
 	- helpers_data.py : It is used as a library to provide functions of data preprocessing and feature engineering. It is called both by run.py and project1.pynb.
